@@ -1,0 +1,26 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Description about project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evibot/gulp-html.git"
+  },
+  "keywords": [
+    "gulp",
+    "html"
+  ],
+  "author": "Terry Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evibot/gulp-html/issues"
+  },
+  "homepage": "https://github.com/evibot/gulp-html#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
